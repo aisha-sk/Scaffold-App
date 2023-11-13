@@ -16,6 +16,7 @@ npm i
 ```
 npm run dev
 ```
+testing1
 
 ## Run Netlify commands
 `netlify login` to login to netlify via an opened browser\
